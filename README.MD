@@ -11,7 +11,7 @@ Enviroment:windows10/python3.10.5
 $ https://github.com/crypto0627/ctnews_scrapy.git
 $ cd ctnews
 $ pip install Scrapy
-$ scrapy crawl -o headlines data.csv
+$ scrapy crawl headlines -o data.csv
 ```
 產生的csv檔即為爬下來的資料
 
