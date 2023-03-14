@@ -17,6 +17,7 @@ $ scrapy crawl headlines -o data.csv
 <p align="center">
   <img alt="csv" src="https://github.com/crypto0627/ctnews_scrapy/blob/main/img/1.png">
 </p>
+
 ## License 
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
