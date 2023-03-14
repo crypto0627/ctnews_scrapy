@@ -15,7 +15,7 @@ $ scrapy crawl headlines -o data.csv
 ```
 產生的csv檔即為爬下來的資料，若CSV檔顯示亂碼，只要用記事本開啟並另存新檔為ANSI編碼。
 <p align="center">
-  <img alt="csv" src="https://github.com/crypto0627/ctnews_scrapy/img/1.png">
+  <img alt="csv" src="https://github.com/crypto0627/ctnews_scrapy/blob/main/img/1.png">
 </p>
 ## License 
 
